@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I’m Shubhayu Mukherjee 👋
+I’m passionate about building Machine Learning and Data Science projects that combine strong analytical thinking with practical applications. My work ranges from EDA and data cleaning to model training, evaluation, and deployment-ready pipelines.
 
 <!--
 **shubhayu405/shubhayu405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
